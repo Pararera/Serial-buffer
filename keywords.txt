@@ -1,0 +1,21 @@
+###########################################
+# Syntax Coloring Map For Serial-buffer
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+SBuff		KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+buff			KEYWORD2
+buffed		KEYWORD2
+size			KEYWORD2
+end			KEYWORD2
+dump			KEYWORD2
+isFail		KEYWORD2
+
